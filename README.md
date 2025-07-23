@@ -3,7 +3,7 @@
 I'm a Software Engineering major student in Multimedia University with a bachelor in Computer Science. 
 
 - 🔭 **Current Role**: Software Trainee at [Solution](https://solutionengiverse.com.my/)
-- 💼 **LinkedIn**: [Natasha Adilyn](www.linkedin.com/in/natasha-adilyn-46099728b)
+- 💼 **LinkedIn**: [Natasha Adilyn](https://www.linkedin.com/in/natasha-adilyn-46099728b/)
 
 ## 🛠️ Technologies & Tools
 
