@@ -9,7 +9,6 @@ I'm a Software Engineering major student in Multimedia University with a bachelo
 
 - **Languages**: Python, Java, JavaScript, C++, HTML, CSS
 - **Frameworks/Libraries**: Django, Flask, React, JavaFX/Swing, 
-- **UI Libraries**: Bootstrap, Tkinter
 
 ## 📫 Get in Touch
 
